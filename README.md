@@ -19,6 +19,8 @@ If you are coming, [add yourself with a Pull Request](https://github.com/welcome
 
 - **Hoodie:** [README: fix anchor link](https://github.com/hoodiehq/hoodie-server-account/issues/120)
 - **Hoodie:** [Blog Post "Meet the Hoodies – Gregor Martynus"](https://github.com/hoodiehq/editorial/issues/74)
+- **PublicLab.org** [Hide spam tags on tag listing page](https://github.com/publiclab/plots2/issues/247)
+- **PublicLab.org** [Banned user accounts still show as having liked things](https://github.com/publiclab/plots2/issues/309) (a little tougher)
 
 Would you like to participate? [Prepare an issue and add it to the list](https://github.com/welcome-to-open-source/atlanta/issues/2) :)
 
