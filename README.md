@@ -6,7 +6,7 @@
 
 📅 Saturday, April 2, 2016 (12:00 PM to 4:00 PM)  
 📍 The Iron Yard, [115 Martin Luther King Jr.   Drive](https://maps.google.com/maps?f=q&hl=en&q=115+Martin+Luther+King+Jr.+Drive%2C+Atlanta%2C+GA%2C+us)  
-👉 [Event page on Meetup.com](http://www.meetup.com/Jr-Dev-Mentoring/events/228951389)  
+🎫 [Event page on Meetup.com](http://www.meetup.com/Jr-Dev-Mentoring/events/228951389)  
 
 ## Participants
 
