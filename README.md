@@ -19,6 +19,7 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 
 - **Hoodie:** [README: fix anchor link](https://github.com/hoodiehq/hoodie-server-account/issues/120)
 - **Hoodie:** [Blog Post "Meet the Hoodies – Gregor Martynus"](https://github.com/hoodiehq/editorial/issues/74)
+- **Babel website**: [Browserify usage instructions: fix old Babel 5 usage](https://github.com/babel/babel.github.io/issues/754)
 
 Would you like to participate? [Prepare an issue and add it to the list](https://github.com/welcome-to-open-source/atlanta/issues/2) :)
 
