@@ -21,6 +21,7 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **Hoodie:** [README: fix anchor link](https://github.com/hoodiehq/hoodie-server-account/issues/120)
 - **Hoodie:** [Blog Post "Meet the Hoodies – Gregor Martynus"](https://github.com/hoodiehq/editorial/issues/74)
 - **Babel website**: [Browserify usage instructions: fix old Babel 5 usage](https://github.com/babel/babel.github.io/issues/754)
+- **Hoodie:** [README: fix server URL](https://github.com/hoodiehq/hoodie-account/issues/4)
 
 Lists of issues
 
