@@ -21,11 +21,7 @@
 - Anika Jaffara
 - Kavodel Lasode
 - Krista Prenesti
-- Semere Lemma
-- Hintsa Hadgu
-- Jarvis Hester
-- Alecs Konson
-
+- Laurence Battle (Mentee, [Twitter](https://twitter.com/LaurenceBattle), [GitHub]https://github.com/Battalion995))
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
 ## Prepared Open Source Issues
