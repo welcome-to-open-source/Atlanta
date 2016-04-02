@@ -20,6 +20,7 @@
 - David Hope (Mentee)
 - Anika Jaffara
 - Kavodel Lasode
+- Krista Prenesti
 
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
