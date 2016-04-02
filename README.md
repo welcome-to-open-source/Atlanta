@@ -32,10 +32,14 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **Hoodie:** [EDIT: Hoodie Tutorial #2](https://github.com/hoodiehq/editorial/issues/84)
 - **Hoodie:** [EDIT: Map app tutorial](https://github.com/hoodiehq/editorial/issues/85)
 - **Hoodie:** [EDIT: Chat app tutorial](https://github.com/hoodiehq/editorial/issues/86)
+- **caniuse.com:** [Add theme-color Meta Tag](https://github.com/Fyrd/caniuse/issues/1831)
+- **caniuse.com:** [add "Web Manifest"](https://github.com/Fyrd/caniuse/issues/1532)
+- **git-pandas:** [Support glob syntax for ignore_dir terms](https://github.com/wdm0006/git-pandas/issues/1)
 
 Lists of issues
 
 - **Servo**: [List of easy issues in Servo](https://starters.servo.org/)
+- **atlanta-oss**: [Atlanta Open Source Projects](https://github.com/wdm0006/atlanta-oss#python)
 - **Up For Grabs**: [curated tasks specifically for new contributors](http://up-for-grabs.net/#/)
 
 Would you like to participate? [Prepare an issue and add it to the list](https://github.com/welcome-to-open-source/atlanta/issues/2) :)
