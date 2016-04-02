@@ -21,6 +21,8 @@
 - Anika Jaffara
 - Kavodel Lasode
 - Krista Prenesti
+- Semere Lemma
+- Hintsa Hadgu
 
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
@@ -63,3 +65,6 @@ All participants are asked to follow our [Code of Conduct](http://hood.ie/code-o
 ## License
 
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
