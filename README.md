@@ -22,8 +22,12 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **Hoodie:** [Blog Post "Meet the Hoodies – Gregor Martynus"](https://github.com/hoodiehq/editorial/issues/74)
 - **Babel website**: [Browserify usage instructions: fix old Babel 5 usage](https://github.com/babel/babel.github.io/issues/754)
 - **Hoodie:** [README: fix server URL](https://github.com/hoodiehq/hoodie-account/issues/4)
-- **Hoodie:** [README: setup instructions](https://github.com/hoodiehq/hoodie-account/issues/5)
-
+- **Hoodie:** [README: hoodie-account setup instructions](https://github.com/hoodiehq/hoodie-account/issues/5)
+- **Hoodie:** [README: hoodie-client setup instructions](https://github.com/hoodiehq/hoodie-client/issues/68)
+- **Hoodie:** [README: hoodie-account-client setup instructions](https://github.com/hoodiehq/hoodie-account-client/issues/88)
+- **Hoodie:** [README: hoodie-store-server setup instructions](https://github.com/hoodiehq/hoodie-store-server/issues/36)
+- **Hoodie:** [README: hoodie-server-task setup instructions](https://github.com/hoodiehq/hoodie-server-task/issues/21)
+- **Hoodie:** [README: hoodie-client-task setup instructions](https://github.com/hoodiehq/hoodie-client-task/issues/26)
 
 Lists of issues
 
