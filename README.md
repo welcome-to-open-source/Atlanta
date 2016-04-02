@@ -12,9 +12,9 @@
 
 - Kim Crayton (Host, [Twitter](https://twitter.com/KimCrayton1), [GitHub](https://github.com/kmcrayton7))
 - Gregor Martynus (Host, [Twitter](https://twitter.com/gr2m), [GitHub](https://github.com/gr2m))
-- Dean Friedland
+- Dean Friedland (Mentee)
 - Ben Simpson (Mentor)
-- Tharun Konduru
+- David Hope (Mentee)
 
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
