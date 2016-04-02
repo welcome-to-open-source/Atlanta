@@ -15,6 +15,7 @@
 - Dean Friedland
 - Ben Simpson (Mentor)
 - Tharun Konduru
+- Marisa Toodle
 
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
