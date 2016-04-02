@@ -35,6 +35,9 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **caniuse.com:** [Add theme-color Meta Tag](https://github.com/Fyrd/caniuse/issues/1831)
 - **caniuse.com:** [add "Web Manifest"](https://github.com/Fyrd/caniuse/issues/1532)
 - **git-pandas:** [Support glob syntax for ignore_dir terms](https://github.com/wdm0006/git-pandas/issues/1)
+- **PouchDB:** [Documentation: note that startkey/endkey reverse when desending=true](https://github.com/pouchdb/pouchdb/issues/4920)
+- **add-cors-to-couchdb:** [Avoid native promises to support node 0.10](https://github.com/pouchdb/add-cors-to-couchdb/issues/17)
+- **localstorage-down:** [Increase code coverage (warning: ambitious issue!)](https://github.com/No9/localstorage-down/issues/68)
 
 Lists of issues
 
