@@ -28,6 +28,10 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **Hoodie:** [README: hoodie-store-server setup instructions](https://github.com/hoodiehq/hoodie-store-server/issues/36)
 - **Hoodie:** [README: hoodie-server-task setup instructions](https://github.com/hoodiehq/hoodie-server-task/issues/21)
 - **Hoodie:** [README: hoodie-client-task setup instructions](https://github.com/hoodiehq/hoodie-client-task/issues/26)
+- **Hoodie:** [BLOG: Hoodie news assignment!](https://github.com/hoodiehq/editorial/issues/83)
+- **Hoodie:** [EDIT: Hoodie Tutorial #2](https://github.com/hoodiehq/editorial/issues/84)
+- **Hoodie:** [EDIT: Map app tutorial](https://github.com/hoodiehq/editorial/issues/85)
+- **Hoodie:** [EDIT: Chat app tutorial](https://github.com/hoodiehq/editorial/issues/86)
 
 Lists of issues
 
