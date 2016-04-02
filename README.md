@@ -53,6 +53,7 @@ Every participant [can add themselves](https://github.com/welcome-to-open-source
 - **PouchDB:** [Documentation: note that startkey/endkey reverse when desending=true](https://github.com/pouchdb/pouchdb/issues/4920)
 - **add-cors-to-couchdb:** [Avoid native promises to support node 0.10](https://github.com/pouchdb/add-cors-to-couchdb/issues/17)
 - **localstorage-down:** [Increase code coverage (warning: ambitious issue!)](https://github.com/No9/localstorage-down/issues/68)
+- **localforage:** [Should fall back to localStorage on WKWebView on IOS 8](https://github.com/mozilla/localForage/issues/278)
 
 Lists of issues
 
